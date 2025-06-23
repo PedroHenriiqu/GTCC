@@ -3,7 +3,10 @@
 ### O GTCC - é uma aplicação web, com o objetivo de facilitar a gestão/organização dos Trabalhos de Conclusão de Curso (TCCs) no ambiente acadêmico. A platarforma permite o cadastro e gerenciamento de alunos, TCC's, bancas avaliadoras, salas e usuários que iram assistir.
 
 ### 🚀 O projeto pode ser acessado via GitHub Pages:
-- https://pedrohenriiqu.github.io/GTCC 
+- https://pedrohenriiqu.github.io/GTCC
+- 🔐 Acesso ao Sistema:
+  - Login: 'admin'
+  - Senha: 'admin'
 
 ✨ Principais Telas:
 
