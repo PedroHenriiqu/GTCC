@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/GTCC/static/css/main.0023ec21.css",
+    "main.js": "/GTCC/static/js/main.7ee229ac.js",
+    "static/js/453.08cadfb6.chunk.js": "/GTCC/static/js/453.08cadfb6.chunk.js",
+    "static/media/logo_login.png": "/GTCC/static/media/logo_login.a87d839edd39940b34ec.png",
+    "index.html": "/GTCC/index.html",
+    "main.0023ec21.css.map": "/GTCC/static/css/main.0023ec21.css.map",
+    "main.7ee229ac.js.map": "/GTCC/static/js/main.7ee229ac.js.map",
+    "453.08cadfb6.chunk.js.map": "/GTCC/static/js/453.08cadfb6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0023ec21.css",
+    "static/js/main.7ee229ac.js"
+  ]
+}
